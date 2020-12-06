@@ -1,4 +1,11 @@
 # Smart design test task
+##DB
+Mongodb
+##Backend
+Node.js, express
+##Frontend
+React/Redux
+
 ___
 First run "make build" to build containers 
 ```sh
